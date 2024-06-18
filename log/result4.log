@@ -1,3 +1,4 @@
+[INFO] Frame: 0  Score:  0
 fuel 0 444
 missile 0 4
 move 0 3
@@ -23,6 +24,7 @@ fuel 7 248
 missile 7 783
 move 7 2
 OK
+[INFO] Frame: 1  Score:  0
 attack 0 0 3
 move 0 0
 attack 1 0 5
@@ -43,6 +45,7 @@ fuel 7 1
 missile 7 0
 move 7 1
 OK
+[INFO] Frame: 2  Score:  74
 move 0 1
 attack 1 0 4
 move 1 2
@@ -60,6 +63,7 @@ fuel 7 1
 missile 7 0
 move 7 2
 OK
+[INFO] Frame: 3  Score:  484
 attack 0 0 1
 move 0 1
 attack 1 0 3
@@ -76,6 +80,7 @@ attack 6 0 2
 move 6 2
 move 7 2
 OK
+[INFO] Frame: 4  Score:  817
 attack 1 0 8
 move 1 0
 attack 2 0 9
@@ -89,6 +94,7 @@ move 6 2
 attack 7 0 7
 move 7 2
 OK
+[INFO] Frame: 5  Score:  1095
 attack 1 0 2
 move 1 2
 move 2 2
@@ -102,6 +108,7 @@ move 6 0
 attack 7 0 10
 move 7 2
 OK
+[INFO] Frame: 6  Score:  1275
 attack 1 0 4
 move 1 0
 attack 2 0 8
@@ -114,6 +121,7 @@ move 6 2
 attack 7 0 4
 move 7 0
 OK
+[INFO] Frame: 7  Score:  1474
 attack 1 0 4
 move 1 2
 move 2 3
@@ -124,6 +132,7 @@ move 6 2
 attack 7 0 9
 move 7 2
 OK
+[INFO] Frame: 8  Score:  1642
 attack 1 0 10
 move 1 2
 attack 2 0 4
@@ -135,6 +144,7 @@ move 5 0
 move 6 2
 move 7 2
 OK
+[INFO] Frame: 9  Score:  1750
 attack 1 0 5
 move 1 0
 move 2 2
@@ -144,6 +154,7 @@ move 5 3
 move 6 2
 move 7 0
 OK
+[INFO] Frame: 10  Score:  2020
 attack 1 0 3
 move 1 2
 move 2 2
@@ -157,6 +168,7 @@ move 6 0
 attack 7 0 1
 move 7 0
 OK
+[INFO] Frame: 11  Score:  2190
 attack 1 0 2
 move 1 2
 move 2 2
@@ -169,6 +181,7 @@ missile 6 0
 move 6 0
 move 7 0
 OK
+[INFO] Frame: 12  Score:  2413
 attack 1 0 8
 move 1 1
 move 2 2
@@ -180,6 +193,7 @@ move 6 0
 attack 7 0 10
 move 7 0
 OK
+[INFO] Frame: 13  Score:  2723
 move 1 1
 attack 2 0 3
 move 2 2
@@ -190,6 +204,7 @@ move 6 2
 attack 7 0 3
 move 7 2
 OK
+[INFO] Frame: 14  Score:  2849
 attack 1 0 1
 move 1 1
 attack 2 0 9
@@ -203,6 +218,7 @@ move 6 2
 attack 7 0 7
 move 7 2
 OK
+[INFO] Frame: 15  Score:  3151
 attack 1 0 10
 move 1 1
 move 2 1
@@ -215,6 +231,7 @@ move 6 0
 attack 7 0 9
 move 7 2
 OK
+[INFO] Frame: 16  Score:  3537
 attack 1 0 9
 move 1 1
 move 2 1
@@ -226,6 +243,7 @@ move 6 2
 attack 7 0 7
 move 7 2
 OK
+[INFO] Frame: 17  Score:  3750
 attack 1 0 10
 move 1 2
 move 2 1
@@ -235,6 +253,7 @@ move 5 1
 move 6 0
 move 7 2
 OK
+[INFO] Frame: 18  Score:  3774
 move 1 3
 attack 2 0 4
 move 2 1
@@ -244,6 +263,7 @@ move 6 0
 attack 7 0 3
 move 7 0
 OK
+[INFO] Frame: 19  Score:  3828
 attack 1 0 6
 move 1 1
 attack 2 0 1
@@ -255,6 +275,7 @@ attack 6 0 1
 move 6 0
 move 7 2
 OK
+[INFO] Frame: 20  Score:  4024
 move 1 3
 attack 2 0 9
 move 2 1
@@ -267,6 +288,7 @@ move 6 0
 attack 7 0 1
 move 7 0
 OK
+[INFO] Frame: 21  Score:  4344
 attack 1 0 6
 move 1 0
 attack 2 0 3
@@ -279,6 +301,7 @@ move 6 0
 attack 7 0 8
 move 7 0
 OK
+[INFO] Frame: 22  Score:  4559
 attack 1 0 5
 move 1 0
 attack 2 0 8
@@ -291,6 +314,7 @@ move 6 0
 attack 7 0 2
 move 7 0
 OK
+[INFO] Frame: 23  Score:  4741
 attack 1 0 9
 move 1 3
 attack 2 0 9
@@ -302,6 +326,7 @@ attack 6 0 3
 move 6 3
 move 7 2
 OK
+[INFO] Frame: 24  Score:  5092
 attack 1 0 2
 move 1 3
 attack 2 0 3
@@ -313,6 +338,7 @@ move 6 2
 attack 7 0 7
 move 7 0
 OK
+[INFO] Frame: 25  Score:  5420
 move 1 3
 attack 2 0 8
 move 2 2
@@ -324,6 +350,7 @@ move 6 2
 attack 7 0 9
 move 7 0
 OK
+[INFO] Frame: 26  Score:  5798
 move 1 3
 attack 2 0 10
 move 2 2
@@ -333,6 +360,7 @@ move 6 2
 attack 7 0 8
 move 7 2
 OK
+[INFO] Frame: 27  Score:  6007
 attack 1 0 2
 move 1 3
 move 2 2
@@ -344,6 +372,7 @@ move 6 0
 attack 7 0 5
 move 7 2
 OK
+[INFO] Frame: 28  Score:  6290
 attack 1 0 8
 move 1 3
 attack 2 0 8
@@ -356,6 +385,7 @@ move 6 3
 attack 7 0 3
 move 7 2
 OK
+[INFO] Frame: 29  Score:  6652
 attack 1 0 3
 move 1 1
 move 2 3
@@ -368,6 +398,7 @@ move 6 0
 attack 7 0 4
 move 7 0
 OK
+[INFO] Frame: 30  Score:  7010
 move 1 3
 attack 2 0 4
 move 2 3
@@ -377,6 +408,7 @@ move 6 0
 attack 7 0 9
 move 7 2
 OK
+[INFO] Frame: 31  Score:  7197
 move 1 3
 move 2 1
 move 3 3
@@ -386,6 +418,7 @@ move 6 0
 attack 7 0 2
 move 7 0
 OK
+[INFO] Frame: 32  Score:  7374
 fuel 1 32
 missile 1 -129
 move 1 0
@@ -398,6 +431,7 @@ move 6 0
 attack 7 0 4
 move 7 2
 OK
+[INFO] Frame: 33  Score:  7516
 attack 1 0 9
 move 1 0
 attack 2 0 1
@@ -410,6 +444,7 @@ attack 6 0 1
 move 6 3
 move 7 0
 OK
+[INFO] Frame: 34  Score:  7667
 attack 1 0 3
 move 1 3
 move 2 3
@@ -422,6 +457,7 @@ move 6 0
 attack 7 0 7
 move 7 0
 OK
+[INFO] Frame: 35  Score:  7934
 move 1 2
 attack 2 0 3
 move 2 0
@@ -435,6 +471,7 @@ move 6 3
 attack 7 0 9
 move 7 0
 OK
+[INFO] Frame: 36  Score:  8176
 move 1 0
 move 2 3
 move 3 0
@@ -444,6 +481,7 @@ move 6 3
 attack 7 0 5
 move 7 3
 OK
+[INFO] Frame: 37  Score:  8403
 move 1 0
 move 2 3
 move 3 0
@@ -453,6 +491,7 @@ move 6 1
 attack 7 0 1
 move 7 0
 OK
+[INFO] Frame: 38  Score:  8577
 fuel 1 6
 missile 1 -12
 move 1 0
@@ -465,6 +504,7 @@ move 6 1
 attack 7 0 6
 move 7 0
 OK
+[INFO] Frame: 39  Score:  8754
 fuel 1 1
 missile 1 0
 move 1 0
@@ -478,6 +518,7 @@ move 6 3
 attack 7 0 8
 move 7 2
 OK
+[INFO] Frame: 40  Score:  8894
 move 1 0
 move 2 2
 fuel 3 1
@@ -488,6 +529,7 @@ move 6 0
 attack 7 0 10
 move 7 2
 OK
+[INFO] Frame: 41  Score:  9012
 attack 1 0 5
 move 1 0
 move 2 0
@@ -498,6 +540,7 @@ move 6 0
 attack 7 0 9
 move 7 2
 OK
+[INFO] Frame: 42  Score:  9301
 move 1 2
 attack 2 0 9
 move 2 0
@@ -507,6 +550,7 @@ move 6 0
 attack 7 0 2
 move 7 2
 OK
+[INFO] Frame: 43  Score:  9409
 attack 1 0 6
 move 1 0
 move 2 2
@@ -518,6 +562,7 @@ move 6 0
 attack 7 0 9
 move 7 2
 OK
+[INFO] Frame: 44  Score:  9736
 attack 1 0 7
 move 1 2
 move 2 2
@@ -527,6 +572,7 @@ move 6 0
 attack 7 0 1
 move 7 2
 OK
+[INFO] Frame: 45  Score:  9953
 move 1 2
 move 2 2
 attack 5 0 8
@@ -536,6 +582,7 @@ move 6 2
 attack 7 0 6
 move 7 0
 OK
+[INFO] Frame: 46  Score:  9975
 attack 1 0 5
 move 1 2
 move 2 2
@@ -545,6 +592,7 @@ move 6 2
 attack 7 0 8
 move 7 2
 OK
+[INFO] Frame: 47  Score:  10155
 attack 1 0 9
 move 1 2
 move 2 2
@@ -553,6 +601,7 @@ attack 6 0 10
 move 6 2
 move 7 2
 OK
+[INFO] Frame: 48  Score:  10320
 attack 1 0 1
 move 1 2
 attack 2 0 2
@@ -562,6 +611,7 @@ attack 6 0 6
 move 6 0
 move 7 1
 OK
+[INFO] Frame: 49  Score:  10438
 attack 1 0 4
 move 1 0
 attack 2 0 4
@@ -574,6 +624,7 @@ move 6 3
 attack 7 0 9
 move 7 1
 OK
+[INFO] Frame: 50  Score:  10593
 attack 1 0 9
 move 1 2
 move 2 2
@@ -581,6 +632,7 @@ move 5 2
 move 6 2
 move 7 1
 OK
+[INFO] Frame: 51  Score:  10649
 attack 1 0 9
 move 1 0
 attack 2 0 7
@@ -591,6 +643,7 @@ move 6 1
 attack 7 0 6
 move 7 1
 OK
+[INFO] Frame: 52  Score:  10846
 attack 1 0 5
 move 1 2
 attack 2 0 5
@@ -602,6 +655,7 @@ move 6 1
 attack 7 0 4
 move 7 1
 OK
+[INFO] Frame: 53  Score:  11138
 move 1 0
 attack 2 0 1
 move 2 3
@@ -611,6 +665,7 @@ move 6 2
 attack 7 0 5
 move 7 2
 OK
+[INFO] Frame: 54  Score:  11357
 attack 1 0 4
 move 1 0
 attack 2 0 3
@@ -621,6 +676,7 @@ move 6 2
 attack 7 0 7
 move 7 2
 OK
+[INFO] Frame: 55  Score:  11463
 attack 1 0 2
 move 1 2
 move 2 2
@@ -632,6 +688,7 @@ move 6 2
 attack 7 0 4
 move 7 2
 OK
+[INFO] Frame: 56  Score:  11531
 attack 1 0 6
 move 1 0
 move 2 2
@@ -642,6 +699,7 @@ move 6 2
 attack 7 0 8
 move 7 1
 OK
+[INFO] Frame: 57  Score:  11773
 attack 1 0 9
 move 1 0
 move 2 2
@@ -652,6 +710,7 @@ move 6 0
 attack 7 0 9
 move 7 1
 OK
+[INFO] Frame: 58  Score:  11912
 attack 1 0 5
 move 1 3
 move 2 1
@@ -661,6 +720,7 @@ attack 6 0 3
 move 6 2
 move 7 3
 OK
+[INFO] Frame: 59  Score:  12044
 attack 1 0 4
 move 1 0
 move 2 1
@@ -671,6 +731,7 @@ move 6 2
 attack 7 0 1
 move 7 0
 OK
+[INFO] Frame: 60  Score:  12184
 move 1 3
 move 2 1
 move 4 0
@@ -680,6 +741,7 @@ move 6 2
 attack 7 0 2
 move 7 3
 OK
+[INFO] Frame: 61  Score:  12378
 attack 1 0 8
 move 1 3
 attack 2 0 3
@@ -690,6 +752,7 @@ attack 6 0 6
 move 6 0
 move 7 2
 OK
+[INFO] Frame: 62  Score:  12415
 move 1 2
 move 2 2
 move 4 0
@@ -698,6 +761,7 @@ attack 6 0 3
 move 6 0
 move 7 0
 OK
+[INFO] Frame: 63  Score:  12453
 move 1 1
 move 2 0
 move 4 0
@@ -707,6 +771,7 @@ move 6 3
 attack 7 0 4
 move 7 0
 OK
+[INFO] Frame: 64  Score:  12510
 attack 1 0 2
 move 1 1
 move 2 0
@@ -716,6 +781,7 @@ attack 6 0 7
 move 6 0
 move 7 3
 OK
+[INFO] Frame: 65  Score:  12602
 move 1 2
 move 2 0
 move 4 0
@@ -724,6 +790,7 @@ attack 6 0 9
 move 6 0
 move 7 3
 OK
+[INFO] Frame: 66  Score:  12627
 move 1 2
 fuel 2 66
 missile 2 -150
@@ -734,6 +801,7 @@ attack 6 0 9
 move 6 0
 move 7 3
 OK
+[INFO] Frame: 67  Score:  12690
 move 1 2
 fuel 2 1
 missile 2 0
@@ -745,6 +813,7 @@ move 6 0
 attack 7 0 7
 move 7 0
 OK
+[INFO] Frame: 68  Score:  12838
 move 1 3
 move 2 0
 move 4 0
@@ -753,6 +822,7 @@ attack 6 0 7
 move 6 3
 move 7 0
 OK
+[INFO] Frame: 69  Score:  12956
 move 1 1
 move 2 0
 move 4 0
@@ -761,6 +831,7 @@ attack 6 0 9
 move 6 0
 move 7 0
 OK
+[INFO] Frame: 70  Score:  12983
 move 1 1
 attack 2 0 6
 move 2 0
@@ -774,6 +845,7 @@ attack 6 0 4
 move 6 0
 move 7 0
 OK
+[INFO] Frame: 71  Score:  13110
 move 1 1
 move 2 0
 fuel 4 1
@@ -786,6 +858,7 @@ attack 6 0 1
 move 6 0
 move 7 0
 OK
+[INFO] Frame: 72  Score:  13147
 attack 1 0 1
 move 1 1
 move 2 0
@@ -794,6 +867,7 @@ move 5 0
 move 6 2
 move 7 0
 OK
+[INFO] Frame: 73  Score:  13175
 move 1 2
 attack 2 0 5
 move 2 0
@@ -804,6 +878,7 @@ move 6 1
 attack 7 0 1
 move 7 0
 OK
+[INFO] Frame: 74  Score:  13411
 move 1 2
 attack 2 0 8
 move 2 2
@@ -818,6 +893,7 @@ move 6 2
 attack 7 0 4
 move 7 3
 OK
+[INFO] Frame: 75  Score:  13725
 fuel 1 36
 missile 1 -101
 move 1 2
@@ -829,6 +905,7 @@ attack 6 0 7
 move 6 1
 move 7 2
 OK
+[INFO] Frame: 76  Score:  13817
 attack 1 0 6
 move 1 1
 move 2 2
@@ -836,6 +913,7 @@ move 4 0
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 77  Score:  13881
 attack 1 0 10
 move 1 2
 attack 2 0 3
@@ -845,6 +923,7 @@ move 5 3
 attack 7 0 7
 move 7 0
 OK
+[INFO] Frame: 78  Score:  14062
 attack 1 0 5
 move 1 1
 move 2 3
@@ -853,12 +932,14 @@ move 5 3
 attack 7 0 2
 move 7 2
 OK
+[INFO] Frame: 79  Score:  14170
 move 1 2
 move 2 3
 move 4 3
 move 5 3
 move 7 3
 OK
+[INFO] Frame: 80  Score:  14170
 move 1 1
 move 2 3
 move 4 0
@@ -866,6 +947,7 @@ move 5 0
 attack 7 0 4
 move 7 0
 OK
+[INFO] Frame: 81  Score:  14223
 attack 1 0 9
 move 1 1
 attack 2 0 3
@@ -874,6 +956,7 @@ move 4 3
 move 5 3
 move 7 3
 OK
+[INFO] Frame: 82  Score:  14254
 attack 1 0 4
 move 1 1
 move 2 3
@@ -886,6 +969,7 @@ move 5 3
 attack 7 0 2
 move 7 0
 OK
+[INFO] Frame: 83  Score:  14425
 move 1 1
 move 2 3
 fuel 4 1
@@ -897,6 +981,7 @@ move 5 3
 attack 7 0 7
 move 7 0
 OK
+[INFO] Frame: 84  Score:  14436
 attack 1 0 0
 move 1 1
 move 2 3
@@ -909,6 +994,7 @@ move 5 3
 attack 7 0 10
 move 7 0
 OK
+[INFO] Frame: 85  Score:  14562
 fuel 2 18
 missile 2 -26
 move 2 3
@@ -921,6 +1007,7 @@ move 5 0
 attack 7 0 5
 move 7 2
 OK
+[INFO] Frame: 86  Score:  14709
 attack 2 0 4
 move 2 1
 move 4 3
@@ -928,11 +1015,13 @@ move 5 3
 attack 7 0 1
 move 7 2
 OK
+[INFO] Frame: 87  Score:  14791
 move 2 3
 move 4 3
 move 5 3
 move 7 2
 OK
+[INFO] Frame: 88  Score:  14791
 move 2 3
 fuel 4 3
 missile 4 0
@@ -943,6 +1032,7 @@ move 5 3
 attack 7 0 10
 move 7 0
 OK
+[INFO] Frame: 89  Score:  14831
 fuel 2 4
 missile 2 -4
 move 2 3
@@ -950,6 +1040,7 @@ move 4 3
 move 5 3
 move 7 0
 OK
+[INFO] Frame: 90  Score:  14831
 fuel 2 1
 missile 2 0
 move 2 3
@@ -957,12 +1048,14 @@ move 4 3
 move 5 3
 move 7 0
 OK
+[INFO] Frame: 91  Score:  14831
 attack 2 0 6
 move 2 3
 move 4 3
 move 5 3
 move 7 0
 OK
+[INFO] Frame: 92  Score:  14886
 attack 2 0 8
 move 2 3
 move 4 3
@@ -970,6 +1063,7 @@ move 5 3
 attack 7 0 3
 move 7 0
 OK
+[INFO] Frame: 93  Score:  15020
 move 2 3
 fuel 4 5
 missile 4 0
@@ -980,6 +1074,7 @@ move 5 3
 attack 7 0 4
 move 7 2
 OK
+[INFO] Frame: 94  Score:  15170
 attack 2 0 1
 move 2 3
 move 4 0
@@ -987,29 +1082,34 @@ move 5 0
 attack 7 0 3
 move 7 0
 OK
+[INFO] Frame: 95  Score:  15246
 move 2 0
 move 4 0
 move 5 0
 move 7 3
 OK
+[INFO] Frame: 96  Score:  15246
 move 2 0
 move 4 0
 move 5 0
 attack 7 0 8
 move 7 3
 OK
+[INFO] Frame: 97  Score:  15331
 move 2 0
 move 4 0
 move 5 0
 attack 7 0 6
 move 7 0
 OK
+[INFO] Frame: 98  Score:  15341
 move 2 0
 move 4 0
 move 5 0
 attack 7 0 8
 move 7 0
 OK
+[INFO] Frame: 99  Score:  15359
 attack 2 0 9
 move 2 0
 attack 4 0 0
@@ -1018,6 +1118,7 @@ attack 5 0 8
 move 5 3
 move 7 3
 OK
+[INFO] Frame: 100  Score:  15545
 attack 2 0 4
 move 2 2
 attack 4 0 0
@@ -1027,6 +1128,7 @@ move 5 0
 attack 7 0 6
 move 7 1
 OK
+[INFO] Frame: 101  Score:  15788
 attack 2 0 7
 move 2 2
 attack 4 0 0
@@ -1036,6 +1138,7 @@ move 5 0
 attack 7 0 1
 move 7 3
 OK
+[INFO] Frame: 102  Score:  16056
 attack 2 0 4
 move 2 2
 attack 4 0 0
@@ -1045,6 +1148,7 @@ move 5 2
 attack 7 0 2
 move 7 0
 OK
+[INFO] Frame: 103  Score:  16334
 attack 2 0 7
 move 2 1
 attack 4 0 0
@@ -1054,12 +1158,14 @@ move 5 0
 attack 7 0 8
 move 7 0
 OK
+[INFO] Frame: 104  Score:  16431
 move 2 2
 move 4 2
 move 5 2
 attack 7 0 2
 move 7 2
 OK
+[INFO] Frame: 105  Score:  16465
 attack 2 0 3
 move 2 1
 attack 4 0 0
@@ -1068,12 +1174,14 @@ attack 5 0 6
 move 5 0
 move 7 3
 OK
+[INFO] Frame: 106  Score:  16535
 attack 2 0 4
 move 2 2
 move 4 2
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 107  Score:  16566
 move 2 0
 attack 4 0 0
 move 4 0
@@ -1082,6 +1190,7 @@ move 5 0
 attack 7 0 8
 move 7 0
 OK
+[INFO] Frame: 108  Score:  16616
 attack 2 0 3
 move 2 0
 attack 4 0 0
@@ -1091,6 +1200,7 @@ move 5 2
 attack 7 0 1
 move 7 3
 OK
+[INFO] Frame: 109  Score:  16827
 move 2 3
 attack 4 0 0
 move 4 2
@@ -1099,6 +1209,7 @@ move 5 2
 attack 7 0 10
 move 7 1
 OK
+[INFO] Frame: 110  Score:  17041
 attack 2 0 1
 move 2 0
 attack 4 0 0
@@ -1107,6 +1218,7 @@ attack 5 0 1
 move 5 0
 move 7 3
 OK
+[INFO] Frame: 111  Score:  17160
 move 2 0
 attack 4 0 0
 move 4 0
@@ -1115,6 +1227,7 @@ move 5 0
 attack 7 0 1
 move 7 1
 OK
+[INFO] Frame: 112  Score:  17273
 move 2 0
 attack 4 0 0
 move 4 0
@@ -1123,6 +1236,7 @@ move 5 0
 attack 7 0 8
 move 7 3
 OK
+[INFO] Frame: 113  Score:  17390
 move 2 3
 attack 4 0 0
 move 4 0
@@ -1130,6 +1244,7 @@ attack 5 0 2
 move 5 0
 move 7 0
 OK
+[INFO] Frame: 114  Score:  17493
 move 2 0
 attack 4 0 0
 move 4 0
@@ -1137,6 +1252,7 @@ attack 5 0 2
 move 5 0
 move 7 0
 OK
+[INFO] Frame: 115  Score:  17521
 move 2 0
 attack 4 0 0
 move 4 2
@@ -1146,6 +1262,7 @@ fuel 7 113
 missile 7 -411
 move 7 0
 OK
+[INFO] Frame: 116  Score:  17572
 attack 2 0 5
 move 2 0
 attack 4 0 0
@@ -1154,6 +1271,7 @@ attack 5 0 8
 move 5 0
 move 7 0
 OK
+[INFO] Frame: 117  Score:  17690
 attack 2 0 10
 move 2 3
 move 4 2
@@ -1161,6 +1279,7 @@ move 5 2
 attack 7 0 4
 move 7 0
 OK
+[INFO] Frame: 118  Score:  17761
 attack 2 0 3
 move 2 3
 attack 4 0 0
@@ -1169,12 +1288,14 @@ attack 5 0 3
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 119  Score:  17887
 attack 2 0 1
 move 2 3
 move 4 2
 move 5 2
 move 7 2
 OK
+[INFO] Frame: 120  Score:  17951
 move 2 1
 attack 4 0 0
 move 4 2
@@ -1182,6 +1303,7 @@ attack 5 0 9
 move 5 2
 move 7 2
 OK
+[INFO] Frame: 121  Score:  17977
 attack 2 0 1
 move 2 1
 attack 4 0 0
@@ -1191,6 +1313,7 @@ move 5 2
 attack 7 0 2
 move 7 2
 OK
+[INFO] Frame: 122  Score:  18228
 attack 2 0 6
 move 2 3
 attack 4 0 0
@@ -1200,6 +1323,7 @@ move 5 0
 attack 7 0 4
 move 7 2
 OK
+[INFO] Frame: 123  Score:  18523
 attack 2 0 6
 move 2 1
 move 4 2
@@ -1207,11 +1331,13 @@ move 5 2
 attack 7 0 8
 move 7 2
 OK
+[INFO] Frame: 124  Score:  18589
 move 2 0
 move 4 2
 move 5 2
 move 7 2
 OK
+[INFO] Frame: 125  Score:  18589
 attack 2 0 8
 move 2 0
 attack 4 0 0
@@ -1221,6 +1347,7 @@ move 5 2
 attack 7 0 6
 move 7 2
 OK
+[INFO] Frame: 126  Score:  18779
 move 2 3
 attack 4 0 0
 move 4 2
@@ -1228,6 +1355,7 @@ attack 5 0 10
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 127  Score:  18812
 move 2 0
 attack 4 0 0
 move 4 1
@@ -1235,6 +1363,7 @@ attack 5 0 10
 move 5 1
 move 7 3
 OK
+[INFO] Frame: 128  Score:  19003
 fuel 2 38
 missile 2 -97
 move 2 0
@@ -1244,12 +1373,14 @@ attack 5 0 5
 move 5 1
 move 7 3
 OK
+[INFO] Frame: 129  Score:  19072
 attack 2 0 8
 move 2 0
 move 4 2
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 130  Score:  19094
 move 2 2
 attack 4 0 0
 move 4 1
@@ -1257,6 +1388,7 @@ attack 5 0 4
 move 5 1
 move 7 3
 OK
+[INFO] Frame: 131  Score:  19110
 move 2 2
 attack 4 0 0
 move 4 2
@@ -1264,6 +1396,7 @@ attack 5 0 2
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 132  Score:  19128
 attack 2 0 7
 move 2 0
 attack 4 0 0
@@ -1272,6 +1405,7 @@ attack 5 0 8
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 133  Score:  19250
 attack 2 0 8
 move 2 2
 attack 4 0 0
@@ -1280,12 +1414,14 @@ attack 5 0 2
 move 5 0
 move 7 3
 OK
+[INFO] Frame: 134  Score:  19470
 attack 2 0 3
 move 2 0
 move 4 1
 move 5 1
 move 7 3
 OK
+[INFO] Frame: 135  Score:  19559
 move 2 2
 attack 4 0 0
 move 4 1
@@ -1293,12 +1429,14 @@ attack 5 0 10
 move 5 1
 move 7 3
 OK
+[INFO] Frame: 136  Score:  19642
 attack 2 0 8
 move 2 2
 move 4 1
 move 5 1
 move 7 3
 OK
+[INFO] Frame: 137  Score:  19671
 attack 2 0 4
 move 2 1
 attack 4 0 0
@@ -1307,6 +1445,7 @@ attack 5 0 10
 move 5 1
 move 7 3
 OK
+[INFO] Frame: 138  Score:  19823
 move 2 0
 attack 4 0 0
 move 4 1
@@ -1314,11 +1453,13 @@ attack 5 0 5
 move 5 1
 move 7 3
 OK
+[INFO] Frame: 139  Score:  19848
 move 2 0
 move 4 2
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 140  Score:  19848
 attack 2 0 4
 move 2 0
 attack 4 0 0
@@ -1327,6 +1468,7 @@ attack 5 0 2
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 141  Score:  19986
 attack 2 0 5
 move 2 2
 attack 4 0 0
@@ -1335,6 +1477,7 @@ attack 5 0 6
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 142  Score:  20174
 move 2 2
 attack 4 0 0
 move 4 2
@@ -1343,6 +1486,7 @@ move 5 2
 attack 7 0 3
 move 7 1
 OK
+[INFO] Frame: 143  Score:  20367
 attack 2 0 6
 move 2 0
 attack 4 0 0
@@ -1351,6 +1495,7 @@ attack 5 0 6
 move 5 0
 move 7 3
 OK
+[INFO] Frame: 144  Score:  20416
 attack 2 0 7
 move 2 2
 attack 4 0 0
@@ -1359,6 +1504,7 @@ attack 5 0 1
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 145  Score:  20663
 attack 2 0 6
 move 2 2
 attack 4 0 0
@@ -1368,6 +1514,7 @@ move 5 0
 attack 7 0 3
 move 7 0
 OK
+[INFO] Frame: 146  Score:  20924
 move 0 3
 move 2 3
 attack 4 0 0
@@ -1377,6 +1524,7 @@ move 5 2
 attack 7 0 3
 move 7 3
 OK
+[INFO] Frame: 147  Score:  21073
 attack 0 0 0
 move 0 0
 attack 2 0 10
@@ -1388,6 +1536,7 @@ move 5 2
 attack 7 0 7
 move 7 1
 OK
+[INFO] Frame: 148  Score:  21393
 move 0 3
 move 2 3
 attack 4 0 0
@@ -1396,6 +1545,7 @@ attack 5 0 6
 move 5 0
 move 7 3
 OK
+[INFO] Frame: 149  Score:  21507
 attack 0 0 0
 move 0 0
 attack 2 0 5
@@ -1407,6 +1557,7 @@ move 5 0
 attack 7 0 3
 move 7 3
 OK
+[INFO] Frame: 150  Score:  21675
 move 0 0
 move 2 0
 attack 4 0 0
@@ -1415,6 +1566,7 @@ attack 5 0 8
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 151  Score:  21723
 attack 0 0 0
 move 0 0
 attack 2 0 2
@@ -1425,6 +1577,7 @@ attack 5 0 8
 move 5 2
 move 7 1
 OK
+[INFO] Frame: 152  Score:  21807
 move 0 3
 move 2 3
 attack 4 0 0
@@ -1433,6 +1586,7 @@ attack 5 0 2
 move 5 0
 move 7 1
 OK
+[INFO] Frame: 153  Score:  21888
 attack 0 0 0
 move 0 1
 attack 2 0 9
@@ -1443,6 +1597,7 @@ attack 5 0 1
 move 5 0
 move 7 1
 OK
+[INFO] Frame: 154  Score:  21952
 move 0 3
 move 2 3
 move 4 3
@@ -1450,6 +1605,7 @@ move 5 3
 attack 7 0 3
 move 7 1
 OK
+[INFO] Frame: 155  Score:  21977
 move 0 3
 move 2 3
 attack 4 0 0
@@ -1458,6 +1614,7 @@ attack 5 0 2
 move 5 3
 move 7 2
 OK
+[INFO] Frame: 156  Score:  22004
 fuel 0 14
 missile 0 -4
 move 0 1
@@ -1470,6 +1627,7 @@ attack 5 0 10
 move 5 1
 move 7 2
 OK
+[INFO] Frame: 157  Score:  22063
 fuel 0 1
 missile 0 0
 move 0 1
@@ -1480,6 +1638,7 @@ move 4 3
 move 5 3
 move 7 2
 OK
+[INFO] Frame: 158  Score:  22063
 move 0 1
 move 2 1
 attack 4 0 0
@@ -1489,6 +1648,7 @@ move 5 0
 attack 7 0 6
 move 7 2
 OK
+[INFO] Frame: 159  Score:  22137
 attack 0 0 0
 move 0 1
 attack 2 0 2
@@ -1500,6 +1660,7 @@ move 5 3
 attack 7 0 9
 move 7 2
 OK
+[INFO] Frame: 160  Score:  22423
 move 0 2
 move 2 2
 attack 4 0 0
@@ -1509,6 +1670,7 @@ move 5 1
 attack 7 0 8
 move 7 1
 OK
+[INFO] Frame: 161  Score:  22631
 move 0 2
 move 2 2
 attack 4 0 0
@@ -1517,6 +1679,7 @@ attack 5 0 3
 move 5 1
 move 7 2
 OK
+[INFO] Frame: 162  Score:  22745
 move 0 2
 move 2 2
 attack 4 0 0
@@ -1525,24 +1688,28 @@ attack 5 0 8
 move 5 1
 move 7 2
 OK
+[INFO] Frame: 163  Score:  22769
 move 0 2
 move 2 2
 move 4 2
 move 5 2
 move 7 2
 OK
+[INFO] Frame: 164  Score:  22769
 move 0 2
 move 2 2
 move 4 2
 move 5 2
 move 7 1
 OK
+[INFO] Frame: 165  Score:  22769
 move 0 2
 move 2 2
 move 4 1
 move 5 1
 move 7 1
 OK
+[INFO] Frame: 166  Score:  22769
 move 0 1
 move 2 1
 attack 4 0 0
@@ -1551,6 +1718,7 @@ attack 5 0 8
 move 5 1
 move 7 2
 OK
+[INFO] Frame: 167  Score:  22906
 attack 0 0 0
 move 0 1
 attack 2 0 8
@@ -1561,6 +1729,7 @@ attack 5 0 6
 move 5 2
 move 7 1
 OK
+[INFO] Frame: 168  Score:  23004
 move 0 2
 move 2 2
 attack 4 0 0
@@ -1569,6 +1738,7 @@ attack 5 0 2
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 169  Score:  23094
 attack 0 0 0
 move 0 2
 attack 2 0 1
@@ -1579,6 +1749,7 @@ attack 5 0 9
 move 5 2
 move 7 2
 OK
+[INFO] Frame: 170  Score:  23250
 attack 0 0 0
 move 0 2
 attack 2 0 1
@@ -1589,6 +1760,7 @@ fuel 7 55
 missile 7 -69
 move 7 2
 OK
+[INFO] Frame: 171  Score:  23360
 attack 0 0 0
 move 0 0
 attack 2 0 8
@@ -1600,6 +1772,7 @@ move 5 1
 attack 7 0 8
 move 7 2
 OK
+[INFO] Frame: 172  Score:  23524
 attack 0 0 0
 move 0 2
 attack 2 0 10
@@ -1610,6 +1783,7 @@ attack 5 0 2
 move 5 3
 move 7 1
 OK
+[INFO] Frame: 173  Score:  23642
 move 0 1
 move 2 1
 move 4 2
@@ -1617,6 +1791,7 @@ move 5 2
 attack 7 0 3
 move 7 1
 OK
+[INFO] Frame: 174  Score:  23644
 attack 0 0 0
 move 0 1
 attack 2 0 4
@@ -1626,6 +1801,7 @@ move 5 2
 attack 7 0 5
 move 7 1
 OK
+[INFO] Frame: 175  Score:  23772
 attack 0 0 0
 move 0 3
 attack 2 0 5
@@ -1636,6 +1812,7 @@ attack 5 0 1
 move 5 1
 move 7 1
 OK
+[INFO] Frame: 176  Score:  23882
 attack 0 0 0
 move 0 1
 attack 2 0 9
@@ -1647,6 +1824,7 @@ move 5 1
 attack 7 0 3
 move 7 1
 OK
+[INFO] Frame: 177  Score:  24175
 attack 0 0 0
 move 0 1
 attack 2 0 2
@@ -1657,6 +1835,7 @@ attack 5 0 7
 move 5 2
 move 7 3
 OK
+[INFO] Frame: 178  Score:  24278
 move 0 2
 move 2 2
 attack 4 0 0
@@ -1665,6 +1844,7 @@ attack 5 0 6
 move 5 1
 move 7 3
 OK
+[INFO] Frame: 179  Score:  24353
 attack 0 0 0
 move 0 2
 attack 2 0 2
@@ -1673,6 +1853,7 @@ move 4 3
 move 5 3
 move 7 3
 OK
+[INFO] Frame: 180  Score:  24400
 attack 0 0 0
 move 0 1
 attack 2 0 6
@@ -1684,6 +1865,7 @@ move 5 3
 move 6 2
 move 7 2
 OK
+[INFO] Frame: 181  Score:  24597
 attack 0 0 0
 move 0 2
 attack 2 0 1
@@ -1694,6 +1876,7 @@ attack 6 0 0
 move 6 1
 move 7 1
 OK
+[INFO] Frame: 182  Score:  24628
 move 0 1
 move 2 1
 attack 4 0 0
@@ -1704,6 +1887,7 @@ attack 6 0 0
 move 6 1
 move 7 1
 OK
+[INFO] Frame: 183  Score:  24709
 attack 0 0 0
 move 0 1
 attack 2 0 4
@@ -1716,6 +1900,7 @@ attack 6 0 0
 move 6 2
 move 7 2
 OK
+[INFO] Frame: 184  Score:  24771
 attack 0 0 0
 move 0 2
 attack 2 0 6
@@ -1729,6 +1914,7 @@ move 6 2
 attack 7 0 7
 move 7 2
 OK
+[INFO] Frame: 185  Score:  24956
 attack 0 0 0
 move 0 1
 attack 2 0 2
@@ -1741,6 +1927,7 @@ attack 6 0 0
 move 6 2
 move 7 2
 OK
+[INFO] Frame: 186  Score:  25064
 attack 0 0 0
 move 0 2
 attack 2 0 3
@@ -1753,6 +1940,7 @@ move 6 2
 attack 7 0 9
 move 7 2
 OK
+[INFO] Frame: 187  Score:  25266
 attack 0 0 0
 move 0 2
 attack 2 0 8
@@ -1762,6 +1950,7 @@ move 5 3
 move 6 2
 move 7 2
 OK
+[INFO] Frame: 188  Score:  25340
 attack 0 0 0
 move 0 2
 attack 2 0 5
@@ -1774,6 +1963,7 @@ move 6 0
 attack 7 0 1
 move 7 0
 OK
+[INFO] Frame: 189  Score:  25626
 attack 0 0 0
 move 0 0
 attack 2 0 1
@@ -1784,6 +1974,7 @@ move 6 0
 attack 7 0 1
 move 7 0
 OK
+[INFO] Frame: 190  Score:  25732
 attack 0 0 0
 move 0 3
 attack 2 0 8
@@ -1793,6 +1984,7 @@ move 5 1
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 191  Score:  25848
 move 0 2
 move 2 2
 move 4 1
@@ -1800,6 +1992,7 @@ move 5 1
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 192  Score:  25848
 move 0 2
 move 2 2
 attack 4 0 0
@@ -1812,6 +2005,7 @@ move 6 0
 attack 7 0 9
 move 7 0
 OK
+[INFO] Frame: 193  Score:  25856
 attack 0 0 0
 move 0 2
 attack 2 0 4
@@ -1821,6 +2015,7 @@ move 5 3
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 194  Score:  25959
 attack 0 0 0
 move 0 2
 attack 2 0 6
@@ -1830,6 +2025,7 @@ move 5 3
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 195  Score:  25989
 move 0 3
 move 2 3
 move 4 1
@@ -1837,6 +2033,7 @@ move 5 1
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 196  Score:  25989
 move 0 3
 move 2 3
 move 4 1
@@ -1844,6 +2041,7 @@ move 5 1
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 197  Score:  25989
 attack 0 0 0
 move 0 1
 attack 2 0 7
@@ -1855,6 +2053,7 @@ move 5 1
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 198  Score:  26101
 move 0 3
 move 2 3
 attack 4 0 0
@@ -1864,6 +2063,7 @@ move 5 1
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 199  Score:  26107
 move 0 0
 move 2 0
 move 4 3
@@ -1871,6 +2071,7 @@ move 5 3
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 200  Score:  26107
 move 0 0
 move 2 0
 move 4 0
@@ -1878,6 +2079,7 @@ move 5 0
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 201  Score:  26107
 attack 0 0 0
 move 0 0
 attack 2 0 6
@@ -1889,6 +2091,7 @@ move 5 0
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 202  Score:  26152
 move 0 3
 move 2 3
 move 4 1
@@ -1896,6 +2099,7 @@ move 5 1
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 203  Score:  26152
 move 0 3
 move 2 3
 move 4 1
@@ -1903,6 +2107,7 @@ move 5 1
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 204  Score:  26152
 move 0 3
 move 2 3
 move 4 1
@@ -1910,6 +2115,7 @@ move 5 1
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 205  Score:  26152
 move 0 1
 move 2 1
 move 4 1
@@ -1917,6 +2123,7 @@ move 5 1
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 206  Score:  26152
 move 0 1
 move 2 1
 attack 4 0 0
@@ -1926,6 +2133,7 @@ move 5 1
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 207  Score:  26274
 move 0 1
 move 2 1
 attack 4 0 0
@@ -1935,6 +2143,7 @@ move 5 3
 move 6 2
 move 7 1
 OK
+[INFO] Frame: 208  Score:  26299
 attack 0 0 0
 move 0 1
 attack 2 0 9
@@ -1944,6 +2153,7 @@ move 5 2
 move 6 2
 move 7 3
 OK
+[INFO] Frame: 209  Score:  26320
 move 0 3
 move 2 3
 move 4 2
@@ -1951,6 +2161,7 @@ move 5 2
 move 6 2
 move 7 3
 OK
+[INFO] Frame: 210  Score:  26320
 move 0 3
 move 2 3
 move 4 2
@@ -1959,6 +2170,7 @@ move 6 2
 attack 7 0 1
 move 7 0
 OK
+[INFO] Frame: 211  Score:  26385
 fuel 0 34
 missile 0 0
 move 0 0
@@ -1970,6 +2182,7 @@ move 5 2
 move 6 2
 move 7 0
 OK
+[INFO] Frame: 212  Score:  26385
 move 0 0
 move 2 0
 attack 4 0 0
@@ -1979,6 +2192,7 @@ move 5 2
 move 6 2
 move 7 0
 OK
+[INFO] Frame: 213  Score:  26502
 move 0 0
 move 2 0
 attack 4 0 0
@@ -1988,6 +2202,7 @@ move 5 2
 move 6 3
 move 7 0
 OK
+[INFO] Frame: 214  Score:  26534
 move 0 0
 move 2 0
 move 4 3
@@ -1996,6 +2211,7 @@ move 6 1
 attack 7 0 7
 move 7 0
 OK
+[INFO] Frame: 215  Score:  26608
 move 0 3
 move 2 3
 attack 4 0 0
@@ -2005,6 +2221,7 @@ move 5 1
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 216  Score:  26647
 move 0 3
 move 2 3
 attack 4 0 0
@@ -2014,6 +2231,7 @@ move 5 3
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 217  Score:  26786
 move 0 3
 move 2 3
 move 4 1
@@ -2022,6 +2240,7 @@ move 6 1
 attack 7 0 3
 move 7 3
 OK
+[INFO] Frame: 218  Score:  26833
 move 0 0
 move 2 0
 move 4 1
@@ -2030,6 +2249,7 @@ move 6 1
 attack 7 0 3
 move 7 0
 OK
+[INFO] Frame: 219  Score:  27007
 move 0 3
 move 2 3
 attack 4 0 0
@@ -2040,6 +2260,7 @@ move 6 2
 attack 7 0 4
 move 7 3
 OK
+[INFO] Frame: 220  Score:  27062
 fuel 0 29
 missile 0 0
 move 0 3
@@ -2055,6 +2276,7 @@ missile 6 0
 move 6 2
 move 7 3
 OK
+[INFO] Frame: 221  Score:  27124
 move 0 3
 move 2 3
 attack 4 0 0
@@ -2066,6 +2288,7 @@ missile 6 0
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 222  Score:  27159
 attack 0 0 0
 move 0 3
 attack 2 0 2
@@ -2077,6 +2300,7 @@ move 5 0
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 223  Score:  27312
 attack 0 0 0
 move 0 1
 attack 2 0 1
@@ -2086,6 +2310,7 @@ move 5 3
 move 6 1
 move 7 2
 OK
+[INFO] Frame: 224  Score:  27319
 move 0 2
 move 2 2
 move 4 1
@@ -2093,6 +2318,7 @@ move 5 1
 move 6 1
 move 7 2
 OK
+[INFO] Frame: 225  Score:  27319
 move 0 2
 move 2 2
 attack 4 0 0
@@ -2102,6 +2328,7 @@ move 5 1
 move 6 3
 move 7 1
 OK
+[INFO] Frame: 226  Score:  27346
 move 0 1
 move 2 1
 attack 4 0 0
@@ -2111,6 +2338,7 @@ move 5 3
 move 6 3
 move 7 1
 OK
+[INFO] Frame: 227  Score:  27486
 attack 0 0 0
 move 0 1
 attack 2 0 4
@@ -2122,6 +2350,7 @@ move 5 3
 move 6 3
 move 7 3
 OK
+[INFO] Frame: 228  Score:  27518
 move 0 3
 move 2 3
 move 3 3
@@ -2130,6 +2359,7 @@ move 5 3
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 229  Score:  27518
 move 0 3
 move 2 3
 attack 3 0 0
@@ -2141,6 +2371,7 @@ move 5 0
 move 6 2
 move 7 3
 OK
+[INFO] Frame: 230  Score:  27564
 fuel 0 10
 missile 0 0
 move 0 3
@@ -2153,6 +2384,7 @@ move 5 2
 move 6 2
 move 7 3
 OK
+[INFO] Frame: 231  Score:  27564
 move 0 3
 move 2 3
 move 3 2
@@ -2161,6 +2393,7 @@ move 5 2
 move 6 2
 move 7 3
 OK
+[INFO] Frame: 232  Score:  27564
 move 0 3
 move 2 3
 move 3 2
@@ -2169,6 +2402,7 @@ move 5 2
 move 6 2
 move 7 1
 OK
+[INFO] Frame: 233  Score:  27564
 move 0 1
 move 2 1
 move 3 2
@@ -2177,6 +2411,7 @@ move 5 2
 move 6 2
 move 7 1
 OK
+[INFO] Frame: 234  Score:  27564
 move 0 1
 move 2 1
 move 3 2
@@ -2185,6 +2420,7 @@ move 5 2
 move 6 2
 move 7 1
 OK
+[INFO] Frame: 235  Score:  27564
 move 0 1
 move 2 1
 move 3 2
@@ -2193,6 +2429,7 @@ move 5 2
 move 6 1
 move 7 1
 OK
+[INFO] Frame: 236  Score:  27564
 move 0 1
 move 2 1
 attack 3 0 0
@@ -2204,6 +2441,7 @@ move 5 1
 move 6 2
 move 7 1
 OK
+[INFO] Frame: 237  Score:  27603
 move 0 1
 move 2 1
 move 3 2
@@ -2214,6 +2452,7 @@ missile 6 0
 move 6 2
 move 7 1
 OK
+[INFO] Frame: 238  Score:  27603
 move 0 1
 move 2 1
 move 3 2
@@ -2224,6 +2463,7 @@ missile 6 0
 move 6 2
 move 7 1
 OK
+[INFO] Frame: 239  Score:  27603
 attack 0 0 0
 move 0 1
 attack 2 0 7
@@ -2234,6 +2474,7 @@ move 5 2
 move 6 2
 move 7 3
 OK
+[INFO] Frame: 240  Score:  27607
 move 0 3
 move 2 3
 move 3 2
@@ -2242,6 +2483,7 @@ move 5 2
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 241  Score:  27607
 move 0 3
 move 2 3
 move 3 1
@@ -2252,6 +2494,7 @@ missile 6 0
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 242  Score:  27607
 move 0 3
 move 2 3
 attack 3 0 0
@@ -2263,6 +2506,7 @@ move 5 1
 move 6 1
 move 7 3
 OK
+[INFO] Frame: 243  Score:  27690
 move 0 3
 move 2 3
 attack 3 0 0
@@ -2274,6 +2518,7 @@ move 5 1
 move 6 2
 move 7 3
 OK
+[INFO] Frame: 244  Score:  27712
 fuel 0 14
 missile 0 0
 move 0 3
@@ -2290,6 +2535,7 @@ move 6 2
 attack 7 0 10
 move 7 0
 OK
+[INFO] Frame: 245  Score:  27826
 move 0 2
 move 2 2
 attack 3 0 0
@@ -2301,6 +2547,7 @@ move 5 2
 move 6 3
 move 7 2
 OK
+[INFO] Frame: 246  Score:  27901
 fuel 0 2
 missile 0 0
 move 0 2
@@ -2314,6 +2561,7 @@ move 5 3
 move 6 1
 move 7 2
 OK
+[INFO] Frame: 247  Score:  27901
 move 0 2
 attack 1 0 0
 move 1 1
@@ -2327,6 +2575,7 @@ move 5 1
 move 6 1
 move 7 2
 OK
+[INFO] Frame: 248  Score:  28076
 move 0 2
 attack 1 0 0
 move 1 1
@@ -2340,6 +2589,7 @@ move 5 1
 move 6 3
 move 7 2
 OK
+[INFO] Frame: 249  Score:  28105
 move 0 2
 attack 1 0 0
 move 1 1
@@ -2354,6 +2604,7 @@ attack 6 0 0
 move 6 1
 move 7 2
 OK
+[INFO] Frame: 250  Score:  28290
 move 0 2
 attack 1 0 0
 move 1 1
@@ -2366,6 +2617,7 @@ attack 5 0 8
 move 5 1
 move 7 2
 OK
+[INFO] Frame: 251  Score:  28303
 move 0 2
 move 1 2
 move 2 2
@@ -2374,6 +2626,7 @@ move 4 2
 move 5 2
 move 7 2
 OK
+[INFO] Frame: 252  Score:  28303
 move 0 2
 attack 1 0 0
 move 1 0
@@ -2386,6 +2639,7 @@ attack 5 0 1
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 253  Score:  28357
 fuel 0 7
 missile 0 0
 move 0 2
@@ -2398,6 +2652,7 @@ move 4 1
 move 5 1
 move 7 2
 OK
+[INFO] Frame: 254  Score:  28357
 fuel 0 1
 missile 0 0
 move 0 2
@@ -2416,6 +2671,7 @@ fuel 7 84
 missile 7 -74
 move 7 2
 OK
+[INFO] Frame: 255  Score:  28403
 fuel 0 1
 missile 0 0
 move 0 2
@@ -2430,6 +2686,7 @@ fuel 7 1
 missile 7 0
 move 7 2
 OK
+[INFO] Frame: 256  Score:  28403
 fuel 0 1
 missile 0 0
 move 0 2
@@ -2444,6 +2701,7 @@ fuel 7 1
 missile 7 0
 move 7 2
 OK
+[INFO] Frame: 257  Score:  28403
 fuel 0 1
 missile 0 0
 move 0 2
@@ -2456,6 +2714,7 @@ move 4 1
 move 5 1
 move 7 2
 OK
+[INFO] Frame: 258  Score:  28403
 move 0 2
 move 1 1
 move 2 2
@@ -2466,6 +2725,7 @@ fuel 7 2
 missile 7 0
 move 7 2
 OK
+[INFO] Frame: 259  Score:  28403
 move 0 2
 attack 1 0 0
 move 1 1
@@ -2480,6 +2740,7 @@ fuel 7 1
 missile 7 0
 move 7 2
 OK
+[INFO] Frame: 260  Score:  28495
 move 0 2
 move 1 3
 move 2 2
@@ -2490,6 +2751,7 @@ fuel 7 1
 missile 7 0
 move 7 2
 OK
+[INFO] Frame: 261  Score:  28495
 move 0 2
 move 1 3
 move 2 2
@@ -2500,6 +2762,7 @@ fuel 7 1
 missile 7 0
 move 7 2
 OK
+[INFO] Frame: 262  Score:  28495
 move 0 2
 move 1 0
 move 2 2
@@ -2508,6 +2771,7 @@ move 4 0
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 263  Score:  28495
 move 0 2
 move 1 0
 move 2 2
@@ -2516,6 +2780,7 @@ move 4 0
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 264  Score:  28495
 move 0 2
 move 1 0
 move 2 2
@@ -2524,6 +2789,7 @@ move 4 0
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 265  Score:  28495
 move 0 2
 move 1 0
 move 2 2
@@ -2532,6 +2798,7 @@ move 4 0
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 266  Score:  28495
 move 0 2
 move 1 0
 move 2 2
@@ -2542,6 +2809,7 @@ fuel 7 5
 missile 7 0
 move 7 2
 OK
+[INFO] Frame: 267  Score:  28495
 fuel 0 10
 missile 0 0
 move 0 2
@@ -2554,6 +2822,7 @@ move 4 0
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 268  Score:  28495
 fuel 0 1
 missile 0 0
 move 0 2
@@ -2566,6 +2835,7 @@ move 4 0
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 269  Score:  28495
 move 0 2
 move 1 0
 move 2 2
@@ -2574,6 +2844,7 @@ move 4 0
 move 5 0
 move 7 2
 OK
+[INFO] Frame: 270  Score:  28495
 move 0 2
 attack 1 0 0
 move 1 0
@@ -2587,3 +2858,4 @@ move 5 0
 move 6 1
 move 7 2
 OK
+[INFO] Frame: 271  Score:  28499

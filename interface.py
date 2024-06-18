@@ -1,9 +1,9 @@
 MAX_FRAME = 15000
 m = 0           # 地图大小
 n = 0
-airCrafts = []  # 战斗机         （x坐标，y坐标，油箱容量gas，最大载弹量missile）
-blueBases = []  # 蓝方基地       （x坐标，y坐标，燃油储备gas，导弹储备missile，防御数值defence，军事价值value）
-redBases = []   # 红方基地       （x坐标，y坐标，燃油储备gas，导弹储备missile，防御数值defence，军事价值value）
+airCrafts = []  # 战斗机          （x坐标，y坐标，油箱容量gas，最大载弹量missile）
+blueBases = []  # 蓝方基地        （x坐标，y坐标，燃油储备gas，导弹储备missile，防御数值defence，军事价值value）
+redBases = []   # 红方基地        （x坐标，y坐标，燃油储备gas，导弹储备missile，防御数值defence，军事价值value）
 fieldMap = []   # 地图
 
 
@@ -80,7 +80,7 @@ def Go(dataPath, logPath):
         # 最大运行15000帧
         while frame <= MAX_FRAME:
             # 打印信息
-            print('[INFO] Frame:', frame, ' Score: ', score)
+            print('[INFO] Frame:', frame, ' Score: ', score, file=f)
             # 战斗结束提前退出
             if len(redBases) == 0:
                 break

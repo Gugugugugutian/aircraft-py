@@ -3,7 +3,7 @@ CASE2   Expected score: 97676\16673
 CASE3   Expected score: 261533\22455
 CASE4   Expected score: 28499
 CASE5   Expected score: 7109\23168
-CASE6   Expected score: 17108\20782
+CASE6   Expected score: 20782
 CASE7   Expected score: 252311\23389
 CASE8   Expected score: 53526\28845
 CASE9   Expected score: 30168

@@ -1,3 +1,4 @@
+[INFO] Frame: 0  Score:  0
 fuel 0 100
 missile 0 20
 move 0 3
@@ -8,31 +9,38 @@ fuel 2 90
 missile 2 10
 move 2 3
 OK
+[INFO] Frame: 1  Score:  0
 move 0 0
 move 1 0
 move 2 0
 OK
+[INFO] Frame: 2  Score:  0
 move 0 0
 move 1 0
 move 2 0
 OK
+[INFO] Frame: 3  Score:  0
 move 0 0
 move 1 0
 move 2 0
 OK
+[INFO] Frame: 4  Score:  0
 attack 0 0 1
 move 0 0
 attack 1 0 3
 move 1 0
 move 2 2
 OK
+[INFO] Frame: 5  Score:  50
 attack 0 0 4
 move 0 3
 move 1 2
 move 2 2
 OK
+[INFO] Frame: 6  Score:  85
 attack 0 0 2
 move 0 0
 move 1 2
 move 2 2
 OK
+[INFO] Frame: 7  Score:  110
